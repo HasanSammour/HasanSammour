@@ -12,10 +12,17 @@
   <img src="banner.png" alt="Hasan Sammour Banner" width="100%" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
 </div>
 
+<!-- Social Buttons -->
 <p align="center">
-  <a href="https://linkedin.com/in/hasan-sammour-72657a3a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0B1B2B&labelColor=9EC347" alt="LinkedIn" /></a>
-  <a href="https://hasan-sammour-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0B1B2B&labelColor=F0603A" alt="Portfolio" /></a>
-  <a href="mailto:hasansammour01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0B1B2B&labelColor=9EC347" alt="Email" /></a>
+  <a href="https://linkedin.com/in/hasan-sammour-72657a3a1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://hasan-sammour-portfolio.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="Portfolio" height="40" width="40" />
+  </a>
+  <a href="mailto:hasansammour01@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="40" />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -49,10 +56,12 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,js,python,flask,mysql,postgres,tailwind,bootstrap,git,github,vscode,figma&perline=8" alt="Tech Stack" />
 </div>
+
 <br/>
+
 <div align="center">
-  <!-- Animated Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=HasanSammour&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <!-- Stable Trophies Server -->
+  <img src="https://github-trophies.vercel.app/?username=HasanSammour&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -62,7 +71,11 @@
 <table border="0" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center"><img src="https://img.icons8.com/color/48/000000/security-shield-green.png" width="24"/> Basma Platform</h3>
+      <h3 align="center">
+        <a href="https://basmagaza.vercel.app/" target="_blank">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9EC347&center=true&vCenter=true&width=250&lines=Basma+Platform" alt="Basma" />
+        </a>
+      </h3>
       <div align="center">
         <a href="https://basmagaza.vercel.app/" target="_blank">
           <img src="basma-preview.png" alt="Basma Preview" width="100%" style="border-radius: 8px; border: 1px solid #9EC347;" />
@@ -78,7 +91,11 @@
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center"><img src="https://img.icons8.com/color/48/000000/leaf.png" width="24"/> RootSource</h3>
+      <h3 align="center">
+        <a href="https://v62-rootsource.netlify.app/" target="_blank">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F0603A&center=true&vCenter=true&width=250&lines=RootSource" alt="RootSource" />
+        </a>
+      </h3>
       <div align="center">
         <a href="https://v62-rootsource.netlify.app/" target="_blank">
           <img src="rootsource-preview.png" alt="RootSource Preview" width="100%" style="border-radius: 8px; border: 1px solid #F0603A;" />
@@ -94,7 +111,11 @@
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="24"/> ResearchAgent AI</h3>
+      <h3 align="center">
+        <a href="https://github.com/HasanSammour/ResearchAgent" target="_blank">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9EC347&center=true&vCenter=true&width=250&lines=ResearchAgent+AI" alt="ResearchAgent" />
+        </a>
+      </h3>
       <div align="center">
         <a href="https://github.com/HasanSammour/ResearchAgent" target="_blank">
           <img src="researchagent-preview.png" alt="ResearchAgent Preview" width="100%" style="border-radius: 8px; border: 1px solid #9EC347;" />
@@ -119,23 +140,29 @@
   <table border="0">
     <tr>
       <td>
+        <!-- Stable Stats Card -->
         <img src="https://github-stats-extended.vercel.app/api?username=HasanSammour&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6&icon_color=F0603A" alt="GitHub Stats" width="400" />
       </td>
       <td>
+        <!-- Top Languages -->
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HasanSammour&layout=compact&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6" alt="Top Languages" width="350" />
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
+
 <div align="center">
+  <!-- Stable Streak Card -->
   <img src="https://streak-stats.demolab.com/?user=HasanSammour&theme=radical&hide_border=true&background=0B1B2B&ring=9EC347&fire=F0603A&currStreakNum=EAF0F6&sideNums=9EC347" alt="GitHub Streak" width="80%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanSammour&theme=tokyo-night&bg_color=0B1B2B&color=9EC347&line=F0603A&point=EAF0F6&hide_border=true" alt="Contribution Graph" width="100%" />
+  <!-- WakaTime Coding Activity (Alternative to broken contribution graph) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HasanSammour&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6&layout=compact" alt="WakaTime Stats" width="80%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
