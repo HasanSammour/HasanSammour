@@ -12,15 +12,15 @@
   <img src="banner.png" alt="Hasan Sammour Banner" width="100%" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
 </div>
 
-<!-- Social Buttons with Icons -->
+<!-- Fixed Social Buttons with Icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/hasan-sammour-72657a3a1/">
+  <a href="https://linkedin.com/in/hasan-sammour-72657a3a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0B1B2B?style=for-the-badge&logo=linkedin&logoColor=9EC347" alt="LinkedIn" />
   </a>
-  <a href="https://hasan-sammour-portfolio.vercel.app/">
+  <a href="https://hasan-sammour-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0B1B2B?style=for-the-badge&logo=vercel&logoColor=9EC347" alt="Portfolio" />
   </a>
-  <a href="mailto:hasansammour01@gmail.com">
+  <a href="mailto:hasansammour01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0B1B2B?style=for-the-badge&logo=gmail&logoColor=9EC347" alt="Email" />
   </a>
 </p>
@@ -73,7 +73,12 @@
 <table border="0" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center" style="color: #9EC347; animation: fade-in 2s;">Basma Platform</h3>
+      <h3 align="center">
+        <a href="https://basmagaza.vercel.app/" target="_blank">
+          <!-- Animated Title -->
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9EC347&center=true&vCenter=true&width=250&lines=Basma+Platform" alt="Basma" />
+        </a>
+      </h3>
       <div align="center">
         <a href="https://basmagaza.vercel.app/" target="_blank">
           <img src="basma-preview.png" alt="Basma Preview" width="100%" style="border-radius: 8px; border: 1px solid #9EC347;" />
@@ -89,7 +94,12 @@
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center" style="color: #F0603A; animation: fade-in 2s;">RootSource</h3>
+      <h3 align="center">
+        <a href="https://v62-rootsource.netlify.app/" target="_blank">
+          <!-- Animated Title -->
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F0603A&center=true&vCenter=true&width=250&lines=RootSource" alt="RootSource" />
+        </a>
+      </h3>
       <div align="center">
         <a href="https://v62-rootsource.netlify.app/" target="_blank">
           <img src="rootsource-preview.png" alt="RootSource Preview" width="100%" style="border-radius: 8px; border: 1px solid #F0603A;" />
@@ -105,7 +115,12 @@
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center" style="color: #9EC347; animation: fade-in 2s;">ResearchAgent AI</h3>
+      <h3 align="center">
+        <a href="https://github.com/HasanSammour/ResearchAgent" target="_blank">
+          <!-- Animated Title -->
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9EC347&center=true&vCenter=true&width=250&lines=ResearchAgent+AI" alt="ResearchAgent" />
+        </a>
+      </h3>
       <div align="center">
         <a href="https://github.com/HasanSammour/ResearchAgent" target="_blank">
           <img src="researchagent-preview.png" alt="ResearchAgent Preview" width="100%" style="border-radius: 8px; border: 1px solid #9EC347;" />
@@ -147,6 +162,17 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<!-- Restored CTA Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1B2B&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=20&fontColor=9EC347&animation=fadeIn" width="100%"/>
+  <h3>🤝 Let's Connect!</h3>
+  <p>I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+  <a href="mailto:hasansammour01@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
+  <a href="https://linkedin.com/in/hasan-sammour-72657a3a1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <a href="https://github.com/HasanSammour"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1B2B&height=100&section=footer&text=Building%20the%20Future,%20One%20Line%20at%20a%20Time&fontSize=20&fontColor=9EC347&animation=fadeIn" width="100%"/>
 </div>
