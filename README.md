@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9EC347&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+Agent+Engineer;Team+Lead+%26+Architect;Zendesk+Certified+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9EC347&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+Agent+Engineer;Team+Lead+%26+Architect;Zendesk+Certified+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -97,29 +97,21 @@ I am a Computer Engineering graduate from Gaza, Palestine, specializing in build
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HasanSammour&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📊 GitHub Analytics (100% Reliable)
+### 📊 GitHub Analytics
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanSammour&show_icons=true&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6&icon_color=F0603A" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HasanSammour&show_icons=true&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6&icon_color=F0603A" alt="GitHub Stats" width="48%" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanSammour&layout=compact&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HasanSammour&layout=compact&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanSammour&theme=radical&hide_border=true&background=0B1B2B&ring=9EC347&fire=F0603A&currStreakNum=EAF0F6&sideNums=9EC347" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=HasanSammour&theme=radical&hide_border=true&background=0B1B2B&ring=9EC347&fire=F0603A&currStreakNum=EAF0F6&sideNums=9EC347" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
