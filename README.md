@@ -100,8 +100,8 @@ I am a Computer Engineering graduate from Gaza, Palestine, specializing in build
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-stats-extended.vercel.app/api?username=HasanSammour&show_icons=true&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6&icon_color=F0603A" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Stats Extended: Includes all orgs and private contributions -->
+  <img src="https://github-stats-extended.vercel.app/api?username=HasanSammour&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6&icon_color=F0603A" alt="GitHub Stats" width="48%" />
   
   <!-- Top Languages -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HasanSammour&layout=compact&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6" alt="Top Languages" width="48%" />
