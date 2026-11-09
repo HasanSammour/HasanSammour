@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Hasan Sammour Banner" width="100%" />
+  <img src="banner.png" alt="Hasan Sammour Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hi there, I'm Hasan Sammour 👋</h1>
@@ -97,17 +97,29 @@ I am a Computer Engineering graduate from Gaza, Palestine, specializing in build
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanSammour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6&icon_color=F0603A" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanSammour&theme=tokyonight&hide_border=true&background=0B1B2B&ring=9EC347&fire=F0603A&currStreakNum=EAF0F6&sideNums=9EC347" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HasanSammour&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📊 GitHub Analytics (100% Reliable)
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HasanSammour&show_icons=true&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6&icon_color=F0603A" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanSammour&layout=compact&theme=radical&hide_border=true&bg_color=0B1B2B&title_color=9EC347&text_color=EAF0F6" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanSammour&theme=tokyo-night&bg_color=0B1B2B&color=9EC347&line=F0603A&point=EAF0F6&hide_border=true" alt="Contribution Graph" width="100%" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanSammour&theme=radical&hide_border=true&background=0B1B2B&ring=9EC347&fire=F0603A&currStreakNum=EAF0F6&sideNums=9EC347" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
