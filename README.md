@@ -12,19 +12,6 @@
   <img src="banner.png" alt="Hasan Sammour Banner" width="100%" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
 </div>
 
-<!-- Fixed Social Buttons with Icons -->
-<p align="center">
-  <a href="https://linkedin.com/in/hasan-sammour-72657a3a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1B2B?style=for-the-badge&logo=linkedin&logoColor=9EC347" alt="LinkedIn" />
-  </a>
-  <a href="https://hasan-sammour-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0B1B2B?style=for-the-badge&logo=vercel&logoColor=9EC347" alt="Portfolio" />
-  </a>
-  <a href="mailto:hasansammour01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0B1B2B?style=for-the-badge&logo=gmail&logoColor=9EC347" alt="Email" />
-  </a>
-</p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🚀 About Me
@@ -60,7 +47,6 @@
 <br/>
 
 <div align="center">
-  <!-- Reliable Achievements instead of broken Trophies -->
   <img src="https://img.shields.io/badge/Pull_Shark_x2-0B1B2B?style=for-the-badge&logo=github&logoColor=9EC347" alt="Pull Shark" />
   <img src="https://img.shields.io/badge/Quickdraw-0B1B2B?style=for-the-badge&logo=github&logoColor=9EC347" alt="Quickdraw" />
   <img src="https://img.shields.io/badge/YOLO-0B1B2B?style=for-the-badge&logo=github&logoColor=F0603A" alt="YOLO" />
@@ -73,11 +59,9 @@
 <table border="0" width="100%">
   <tr>
     <td width="33%" valign="top">
+      <!-- Static Colored & Glowing Title -->
       <h3 align="center">
-        <a href="https://basmagaza.vercel.app/" target="_blank">
-          <!-- Animated Title -->
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9EC347&center=true&vCenter=true&width=250&lines=Basma+Platform" alt="Basma" />
-        </a>
+        <span style="color: #9EC347; text-shadow: 0 0 10px #9EC347;">Basma Platform</span>
       </h3>
       <div align="center">
         <a href="https://basmagaza.vercel.app/" target="_blank">
@@ -94,11 +78,9 @@
       </div>
     </td>
     <td width="33%" valign="top">
+      <!-- Static Colored & Glowing Title -->
       <h3 align="center">
-        <a href="https://v62-rootsource.netlify.app/" target="_blank">
-          <!-- Animated Title -->
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F0603A&center=true&vCenter=true&width=250&lines=RootSource" alt="RootSource" />
-        </a>
+        <span style="color: #F0603A; text-shadow: 0 0 10px #F0603A;">RootSource</span>
       </h3>
       <div align="center">
         <a href="https://v62-rootsource.netlify.app/" target="_blank">
@@ -115,11 +97,9 @@
       </div>
     </td>
     <td width="33%" valign="top">
+      <!-- Static Colored & Glowing Title -->
       <h3 align="center">
-        <a href="https://github.com/HasanSammour/ResearchAgent" target="_blank">
-          <!-- Animated Title -->
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9EC347&center=true&vCenter=true&width=250&lines=ResearchAgent+AI" alt="ResearchAgent" />
-        </a>
+        <span style="color: #9EC347; text-shadow: 0 0 10px #9EC347;">ResearchAgent AI</span>
       </h3>
       <div align="center">
         <a href="https://github.com/HasanSammour/ResearchAgent" target="_blank">
@@ -162,13 +142,19 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- Restored CTA Section -->
+<!-- Restored CTA Section with Custom Logo -->
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
   <p>I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
-  <a href="mailto:hasansammour01@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
-  <a href="https://linkedin.com/in/hasan-sammour-72657a3a1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <a href="https://github.com/HasanSammour"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/></a>
+  
+  <!-- Make sure 'logo.png' is uploaded to your repo -->
+  <a href="https://hasan-sammour-portfolio.vercel.app/" target="_blank">
+    <img src="logo.png" alt="Portfolio" width="50" height="50" style="border-radius: 50%; border: 2px solid #9EC347;" />
+  </a>
+  
+  <a href="mailto:hasansammour01@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="45"/></a>
+  <a href="https://linkedin.com/in/hasan-sammour-72657a3a1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="45"/></a>
+  <a href="https://github.com/HasanSammour"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="45"/></a>
 </div>
 
 <br/>
